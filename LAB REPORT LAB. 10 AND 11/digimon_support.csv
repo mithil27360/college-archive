@@ -1,0 +1,87 @@
+Support,Description,Description_Length
+Adroit Wisdom,Increases INT by 15%.,21
+All-Rounder,"Increases ATK, DEF, INT and SPD by 5%.",38
+Analyze,Increases scan values by 10%.,29
+Animal Colosseum,Increases damage from Earth skills by 15%.,42
+Aus Generics,Increases SPD and EVA by 25% when HP drops below 25%.,53
+Backwater Camp,"Increases damage given by 20%, but also increases damage received by 20%.",73
+Battle Sense,Increases ATK by 50% when HP drops below 10%.,45
+Blaster,Increases ATK by 10% and amount of HP received from absorption effects by 30%.,78
+Bull's-Eye,Increases ACU by 15%.,21
+Caledfwlch Dive,"Increases ACU and EVA by 5%, and CRT by 10%.",44
+Chaos Expert,Increases ATK and INT by 10%.,29
+Crimson Formation,Increases damage from Electric and Wind skills by 10%.,54
+D-Brigade,Increases ACU and CRT by 10%.,29
+Deep Savers,Increases damage from Water skills by 15%.,42
+Deep Sea Slumber,10% chance of putting target to sleep when attacking.,53
+Destiny,Restores 3% of Max HP and SP every turn.,40
+Destroyer,10% chance of instantly killing target when attacking.,54
+Dragon Mode,Increases DEF and INT by 10%.,29
+Dragon's Roar,Increases damage from Fire skills by 15%.,41
+Dragon's Wrath,Increases ATK by 15%.,21
+Envy,Increases damage done to targets by 15% if they are Mega or above.,66
+Evil Heart,Increases amount of SP received from absorption effects by 30%.,63
+Fairy Protection,Increases given stat boost effects by 5%.,41
+Feint,Increases EVA by 7%.,20
+Feral Pulse,Increases SPD by 15%.,21
+Fight or Flight,Increases ATK by 20% when HP drops below 50%.,45
+Fighter Mode,Increases ATK and SPD by 10%.,29
+Flower Guard,Prevents poison.,16
+Freyr,Increases damage from Wind and Light skills by 10%.,51
+Full Functionality,Prevents sleep.,15
+Furious Howl,30% chance of instantly killing target when attacking if lower than Ultimate.,77
+Gehenna,Reduces damage received from magic attacks by 10% and converts it to HP.,72
+Gluttony,Reduces HP by 5% of Max HP and increases ATK by 5% every turn.,62
+Greed,Increases amount of HP and SP received from absorption effects by 20%.,70
+Haymaker,Increases CRT by 15%.,21
+Hermitic Loner,Increases damage to Royal Knights by 20%.,41
+High Resolution,Prevents dotting.,17
+Holy Knight,"Increases SPD by 10%, and damage from Fire and Light skills by 10%.",67
+Holy Ring,Increases HP recovery effects by 20%.,37
+Holy Salvation,Reduces damage received from species with bad affinity by 15%.,62
+Immobility,Prevents stunning.,18
+Innocent Pupil,Increase accuracy and evasion by 1%.,36
+Ironclad Defense,Increases DEF by 15%.,21
+Ironclad Fortification,Reduces damage received by 10%.,31
+Justice Genome,Increases damage from Light skills by 15%.,42
+Justice Union,Increases probability of combos occurring and continuing by 10%.,64
+Leopard Mode,"Increases EVA and CRT by 5%, and SPD by 10%.",44
+Lust,Reduces damage received from physical attacks by 10% and converts it to SP.,75
+Master's Disposition,"If HP is over 50% of Max HP, a fatal attack will instead leave you with 1 HP.",77
+Meditation,Restores 5% of Max HP every turn.,33
+Menace,10% chance of stunning target when attacking.,45
+Metal Empire,Increases damage from Electric skills by 15%.,45
+Millionaire,Increases YEN earned in battle.,31
+Miracle,Has a 10% chance of reducing damage received by 30%.,52
+Mirage Burst,"Increases physical damage received by 25%, but also increases INT by 20%.",73
+Moon-Kissed Blade,Increases damage from Water and Light skills by 10%.,52
+Muscle Monkey Suit,Reduces physical damage received by 15%.,40
+Mysterious Scale,Decreases received stat reduction effects by 5%.,48
+Mystic Protection,Cuts the rate of abnormal statuses received by 50%.,51
+Nature Spirits,Increases damage from Plant skills by 15%.,42
+Nightmare Soldiers,Increases damage from Dark skills by 15%.,41
+Numbing Waves,Prevents paralysis.,19
+Obsidian Knight,"Increases DEF by 10%, and damage from Water and Dark skills by 10%.",67
+Ocean Love,Restores 5% of Max SP every turn.,33
+Parallel World Tactician,Increases Light and Dark skill damage by 10% and increases HP recovery effects by 10%.,86
+Phoenix Feathers,Prevents instant death.,23
+Platinum Bonus,Increases EXP earned in battle.,31
+Poison Thorns,10% chance of poisoning target when attacking.,46
+Pride,Increases damage from all attribute skills by 5%.,49
+Primal Trooper,Increases damage from Neutral skills by 15%.,44
+Royal Commando,10% chance of paralyzing target when attacking.,47
+Scavenge,Increases foe drop rate for items.,34
+Shining Burst,"Increases Dark damage received by 25%, but also increases ATK by 25%.",69
+Sloth,"Prevents Sleep, and has a 30% chance of putting target to sleep when attacking.",79
+Strange Dance,10% chance of confusing target when attacking.,46
+Strategist,Reduces SP consumed by skills by 20%.,37
+Supreme Focus,Prevents confusion.,19
+Swiftness,Makes sure you always move first in battle.,43
+Tifaret,"Restores 5% of max HP every turn, and increases HP received from absorption effects by 20%.",91
+To Fight Another Day,Makes it easier to escape from battle.,38
+Trickster,10% chance of dotting target when attacking.,44
+Unmatched Cruelty,Increases damage from attributes with good affinity by 15%.,59
+Unstable Singularity,"Increases damage given by 30%, but also increases damage received by 30%.",73
+Wind Guardians,Increases damage from Wind skills by 15%.,41
+Wrath,Raises ATK and INT by 25% when HP drops below 25%.,50
+Wyvern,Increases damage from Fire and Wind skills by 10%.,50
