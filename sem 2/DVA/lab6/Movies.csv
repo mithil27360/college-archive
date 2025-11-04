@@ -1,0 +1,11 @@
+,name,language,genre,rating,review
+0,titanic,eng,action,10.0,good
+1,b,hindi,comedy,5.0,bad
+2,c,eng,thriller,7.0,good
+3,d,hindi,action,4.0,bad
+4,e,eng,comedy,6.0,good
+5,f,hindi,thriller,4.0,bad
+6,g,eng,action,8.0,good
+7,h,hindi,comedy,5.0,bad
+8,i,eng,thriller,9.6,good
+9,w,hindi,action,3.0,bad
