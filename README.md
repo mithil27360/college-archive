@@ -1,5 +1,5 @@
 
-A digital dump of everything I’ve built, coded, and survived at **MIT Manipal** — from lab programs to course projects and reports.
+A digital  archive of everything I’ve built  at **MIT Manipal** — from lab programs to course projects and reports.
 
 ## Includes
 -  **Lab Codes** 
